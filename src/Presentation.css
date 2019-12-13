@@ -1,0 +1,16 @@
+
+.presentation {
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    font-size: 0.8em;
+    background-color: rgb(249,205,18);
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.espacement {
+    margin-bottom: 15px;
+}
